@@ -1,1 +1,1 @@
-![Terminal GIF](https://raw.githubusercontent.com/YOUR_USERNAME/gif-terminal/main/output.gif)
+![Terminal GIF](https://raw.githubusercontent.com/DomDegi/gif-terminal/main/output.gif)
