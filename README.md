@@ -61,7 +61,7 @@
 | 🎲 **[Advanced Monte Carlo Integration](https://github.com/DomDegi/montecarlo-DGL)** | High-performance, multithreaded library for N-dimensional Monte Carlo integration and MCMC, heavily optimizing cache locality to maximize CPU core utilization. | `C++` `OpenMP` `Optimization` |
 | ⚡ **[CUDA Batched Matrix Multiplication](https://github.com/DomDegi/ParallelComputingChallenge1)** | Highly optimized custom CUDA kernel to accelerate batched matrix multiplications using shared memory tiling and thread coarsening. | `C/C++` `CUDA` `GPU Computing` |
 | 🎮 **[Client-Server Multiplayer Game](https://github.com/DomDegi/IS25-AM06)** | Real-time multiplayer digital board game utilizing RMI and TCP/IP Sockets for state synchronization. | `Java` `MVC` `Sockets` `JavaFX` |
-| ❄️ **[Declarative Ephemeral NixOS]{https://github.com/DomDegi/nixos-configs}** | Architected and maintained a fully reproducible Linux environment managing system packages and user dotfiles declaratively via Nix Flakes and Home Manager. | `NixOS` `Linux SysAdmin` |
+| ❄️ **[Declarative Ephemeral NixOS](https://github.com/DomDegi/nixos-configs)** | Architected and maintained a fully reproducible Linux environment managing system packages and user dotfiles declaratively via Nix Flakes and Home Manager. | `NixOS` `Linux SysAdmin` |
 
 ---
 
