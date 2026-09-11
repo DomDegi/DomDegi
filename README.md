@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/domenicodegiorgio/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:domenico.degiorgio@icloud.com">
+  <a href="mailto:domenicodegiorgio@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 **Education:** Currently pursuing my M.Sc. in High-Performance Computing Engineering at Politecnico di Milano.
-* 💻 **Interests:** Deeply passionate about Parallel Computing, Advanced Computer Architectures, and Numerical Linear Algebra.
+* 💻 **Interests:** Quantum physics (at least trying), using mathematics and statistics to model finance, and currently learning Bayesian statistics.
 * 🐧 **Daily Driver:** Linux enthusiast (I run a fully reproducible, ephemeral NixOS system using the "erase your darlings" methodology).
 * 🗣 **Languages:** Native Italian, Fluent English (C1).
 
@@ -59,6 +59,7 @@
 |---------|-------------|-------|
 | 🌌 **[Adaptive Space-Time Finite Element Solver](https://github.com/DomDegi/space_and_time_adaptivity)** | Distributed parallel solver for heat equation PDEs. Implemented space-time adaptive mesh refinement to optimize computational load across distributed nodes. | `C++` `MPI` `deal.II` `HPC` |
 | 🎲 **[Advanced Monte Carlo Integration](https://github.com/DomDegi/montecarlo-DGL)** | High-performance, multithreaded library for N-dimensional Monte Carlo integration and MCMC, heavily optimizing cache locality to maximize CPU core utilization. | `C++` `OpenMP` `Optimization` |
+| 🛰️ **[AstraLog-HPC Telemetry Rule Engine](https://github.com/DomDegi/DeGiorgioPelorosso)** | Telemetry alarm engine for a simulated ESA call for tenders, with a zero-touch CI/CD pipeline spanning GitHub Actions and CINECA's GitLab. ~850k rows/s on Galileo100. | `Python` `Polars` `CI/CD` `Docker` `HPC` |
 | ⚡ **[CUDA Batched Matrix Multiplication](https://github.com/DomDegi/ParallelComputingChallenge1)** | Highly optimized custom CUDA kernel to accelerate batched matrix multiplications using shared memory tiling and thread coarsening. | `C/C++` `CUDA` `GPU Computing` |
 | 🎮 **[Client-Server Multiplayer Game](https://github.com/DomDegi/IS25-AM06)** | Real-time multiplayer digital board game utilizing RMI and TCP/IP Sockets for state synchronization. | `Java` `MVC` `Sockets` `JavaFX` |
 | ❄️ **[Declarative Ephemeral NixOS](https://github.com/DomDegi/nixos-configs)** | Architected and maintained a fully reproducible Linux environment managing system packages and user dotfiles declaratively via Nix Flakes and Home Manager. | `NixOS` `Linux SysAdmin` |
